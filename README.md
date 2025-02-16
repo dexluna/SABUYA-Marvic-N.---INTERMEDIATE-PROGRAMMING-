@@ -1,2 +1,0 @@
-# SABUYA-Marvic-N.---INTERMEDIATE-PROGRAMMING-
-[Group Activity] Simple Program in INTERMEDIATE PROGRAMMING 
