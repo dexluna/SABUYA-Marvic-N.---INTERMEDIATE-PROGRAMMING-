@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
-int main() {
-  cout << "Enter weight in grams: ";
-  cin >> grams;
-    pounds = grams / 453.592;
-    cout << grams << " grams is equal to " << pounds << " pounds." << endl;
 
-  return 0;
+int main() {
+    double grams;
+    cout << "Enter weight in grams: ";
+    cin >> grams;
+    double pounds = grams * 0.00220462;
+    cout << "Equivalent in pounds: " << pounds;
+    return 0;
 }
-    
